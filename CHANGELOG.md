@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/6clc/semantic_release_test/compare/v1.1.0...v1.2.0) (2020-12-11)
+
+
+### Bug Fixes
+
+* simple release ([834fde5](https://github.com/6clc/semantic_release_test/commit/834fde57e450ae15f12429ce9ac54b7cad755064))
+* simple release ([ef52292](https://github.com/6clc/semantic_release_test/commit/ef522922734b1e28114f0f916fd41bc81438124c))
+
+
+### Features
+
+* simple release ([e3536b5](https://github.com/6clc/semantic_release_test/commit/e3536b5ff382e7d515589bda176916d85f944630))
+
 # [1.1.0](https://github.com/6clc/semantic_release_test/compare/v1.0.0...v1.1.0) (2020-12-11)
 
 
