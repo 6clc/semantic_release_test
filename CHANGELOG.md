@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/6clc/semantic_release_test/compare/v1.2.0...v1.3.0) (2020-12-11)
+
+
+### Features
+
+* adf ([2a4da6b](https://github.com/6clc/semantic_release_test/commit/2a4da6b640e75bfb8a10bf26ac68d4fa1c84c285))
+
 # [1.2.0](https://github.com/6clc/semantic_release_test/compare/v1.1.0...v1.2.0) (2020-12-11)
 
 
