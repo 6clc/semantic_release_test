@@ -1,6 +1,6 @@
 {
   "name": "semantic_release",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/6clc/semantic_release_test.git"
