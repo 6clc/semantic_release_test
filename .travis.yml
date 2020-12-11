@@ -1,0 +1,8 @@
+language: node_js
+node_js: 12
+
+script:
+  - python pymain.py
+
+after_success:
+  - npx semantic-release
